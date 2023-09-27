@@ -236,8 +236,16 @@ footer {
         margin: 0 auto; /* Centra las imágenes horizontalmente en dispositivos móviles */
         display: block; /* Hace que las imágenes se muestren en bloque en dispositivos móviles */
     }
+
+    /* Añade un estilo para conservar la relación de aspecto cuadrada de las imágenes en dispositivos móviles */
+    .imagen img {
+        width: 100%; /* Establece el ancho de la imagen al 100% */
+        height: auto; /* Deja que la altura se ajuste automáticamente para mantener la relación de aspecto */
+        max-height: none; /* Asegura que no haya una altura máxima que pueda afectar la relación de aspecto */
+    }
 }
 
-body {
-    font-size: 16px; /* Cambia el tamaño de fuente para dispositivos móviles */
-}
+
+
+
+
