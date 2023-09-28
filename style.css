@@ -179,10 +179,10 @@ nav a {
 }
 
 h3 {
-    margin-top: -20%;
-    color: #ff8af9; /* Cambia el color del título */
+    margin-top: 5%;
+    color: #ffffff; /* Cambia el color del título */
     font-size: 2em;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 .container p {
