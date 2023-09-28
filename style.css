@@ -283,6 +283,9 @@ footer {
         height: auto; /* Deja que la altura se ajuste automáticamente para mantener la relación de aspecto */
         max-height: none; /* Asegura que no haya una altura máxima que pueda afectar la relación de aspecto */
     }
+    h3 {
+        font-size: 1em; /* Tamaño de fuente más pequeño para dispositivos móviles */
+    }
 }
 
 /* Estilos para el botón "Cerrar" en la página emergente */
