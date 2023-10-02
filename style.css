@@ -313,7 +313,8 @@ header {
         margin-top: -70%;
         white-space: pre-line;
         margin-bottom: 50px;
-        font-size: 2em;
+        font-size: 1.5em;
+        font-family: cursive;
     }
 
     .container .btn {
