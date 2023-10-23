@@ -22,6 +22,7 @@ Este es un Website simple de una artista local en crecimiento, ella ofrece pieza
 <div>
 <img src="https://img.icons8.com/color/1x/html-5.png" title="HTML" alt="HTML" width="50" height="50"/>
 <img src="https://img.icons8.com/color/1x/css3.png" title="CSS" alt="CSS" width="50" height="50"/>
+<img src="https://img.icons8.com/color/1x/javascript.png" title="JavaScript" alt="JavaScript" width="50" height="50"/>
 </div>
 
 ## Contribución
