@@ -3,7 +3,7 @@
 Puedes acceder al sitio web en línea en: https://effulgent-marshmallow-d5e06c.netlify.app
 ## Descripción
 
-Este es un Website simple de una artista local en crecimiento, ella ofrece piezas de arte decortaivo para cualquier espacio y para todos los gustos. El sitio web presenta información visual y ddescriptiva de su trabajo artistico y ofrece un contacto directo via whatsapp para hacer encargos y consultas.
+Este es un Website simple de una artista local en crecimiento que ofrece piezas de arte decorativo para cualquier espacio y para todos los gustos. El sitio web presenta información visual y descriptiva de su trabajo artístico y ofrece un contacto directo vía whatsapp para hacer encargos y consultas.
 
 ## Capturas de Pantalla
 
