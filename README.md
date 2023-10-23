@@ -1,9 +1,9 @@
-<h1>¡Bienvenido al repositorio del sitio web de Espacio Fitness!</h1>
+<h1>¡Bienvenido al repositorio del sitio web de DecoSweet!</h1>
 
 Puedes acceder al sitio web en línea en: https://effulgent-marshmallow-d5e06c.netlify.app
 ## Descripción
 
-Este es el sitio web del Gimnasio Espacio Fitness, un gimnasio moderno y equipado para ayudarte a alcanzar tus objetivos en fitness. El sitio web presenta información sobre nuestros servicios, instalaciones y más.
+Este es un Website simple de una artista local en crecimiento, ella ofrece piezas de arte decortaivo para cualquier espacio y para todos los gustos. El sitio web presenta información visual y ddescriptiva de su trabajo artistico y ofrece un contacto directo via whatsapp para hacer encargos y consultas.
 
 ## Capturas de Pantalla
 
