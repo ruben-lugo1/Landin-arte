@@ -1,4 +1,4 @@
-<h1>¡Bienvenido al repositorio del sitio web de DecoSweet!</h1>
+<h1>DecoSweet Website</h1>
 
 Puedes acceder al sitio web en línea en: https://effulgent-marshmallow-d5e06c.netlify.app
 ## Descripción
